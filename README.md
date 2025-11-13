@@ -3,7 +3,7 @@
 A professional, high-performance sniper bot specifically designed for Four.Meme token launches on BNB Chain. Built for advanced DeFi traders and meme token enthusiasts.
 
 ## Contact me on Telegram to build your own sniper bot
-<a href="https://t.me/just_ben_venture" target="_blank">
+<a href="https://t.me/sunnra0x0" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support" />
 </a>
 
